@@ -1,14 +1,15 @@
 .container {
   display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
+
 }
 
 
 
 .box {
-  height: 200px;
   width: 200px;
+  height: 200px;
+  border: 2px solid goldenrod;
+  margin: 2px;
 }
 
 .box1 {
